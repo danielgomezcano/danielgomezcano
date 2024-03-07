@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <br>
+I'm Daniel Gómez Cano, but not the university account :D <br>
+It's my private github
 
 <!--
 **danielgomezcano/danielgomezcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
